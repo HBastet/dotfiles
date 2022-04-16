@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = hbastet@miysis.eu
+	name = herve bastet
